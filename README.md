@@ -9,4 +9,4 @@
 
 В Use custom clang-format.exe file указываем путь до clang-format-XXX.exe
 
-Для того что бы применить оформление кода нажимаем Ctrl+K,Ctrl+D либо ПКМ по проекту Analyze and Code Cleanup Run code analyse $(PrjcetName)
+Для того что бы применить оформление кода нажимаем Ctrl+K,Ctrl+D либо ПКМ по проекту Analyze and Code Cleanup Run code analyse $(ProjectName)
