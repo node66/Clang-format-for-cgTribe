@@ -1,4 +1,4 @@
----s
+---
 
 BasedOnStyle: Microsoft 
 Language: Cpp
@@ -47,7 +47,6 @@ KeepEmptyLinesAtTheStartOfBlocks: false
 MaxEmptyLinesToKeep: 0
 NamespaceIndentation: All
 PointerAlignment: Left
-SortIncludes: Never
 SortUsingDeclarations: true
 SpaceAfterCStyleCast: false
 SpaceAfterLogicalNot: false
