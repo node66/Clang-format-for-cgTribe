@@ -1,0 +1,1 @@
+# Clang-format-for-cgTribe
